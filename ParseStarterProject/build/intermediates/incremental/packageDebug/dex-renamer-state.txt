@@ -1,0 +1,7 @@
+#Thu Dec 22 16:45:39 GMT 2016
+base.0=/Users/oalaribe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e6cf6a1baeaa076bbe7deff7faec30bdf1e34511
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/oalaribe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d4cb63a345b4260c4ae18a34edad603092401431/classes.dex
+base.1=/Users/oalaribe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d4cb63a345b4260c4ae18a34edad603092401431
+file.0=/Users/oalaribe/Downloads/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e6cf6a1baeaa076bbe7deff7faec30bdf1e34511/classes.dex
